@@ -1,0 +1,1 @@
+This project focuses on predicting future stock prices using historical market data. By leveraging time series analysis and machine learning techniques, the model aims to identify patterns and trends to provide accurate price forecasts. The project is designed to support data-driven decision-making in stock trading and investment strategies.
